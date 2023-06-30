@@ -37,7 +37,7 @@ function NavBar(props) {
                 <Nav.Link as={Link} to={"/book"}>
                   <Button bsStyle="primary">Book now</Button>
                 </Nav.Link>
-            </Nav>
+              </Nav>
             </Nav>
           </Container>
         </Navbar>
