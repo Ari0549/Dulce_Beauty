@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Ledger&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 1500px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+  font-family: 'Lato', sans-serif;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-top: 40px;
+  color: #5D4F85;
+}
+
+.navbar .links {
+  font-size: 24px;
+  float: left;
+}
+
+.navbar .links2 {
+  font-size: 24px;
+}
+
+.brandLogo img{
+  width: 350px;
+}
+
+.btn-primary {
+    color: #5D4F85;
+    background-color: #fff;
+    background-color: cutom-color;
+    border-color: #5D4F85;
+    border-color: cutom-cor;
+    border-radius: 8px;
+    width: 100px;
+}
+
+.btn-primary:hover{
+    color: #fff;
+    background-color: #5D4F85;
+    background-color: cutom-color;
+    border-color: #fff;
+    border-color: cutom-cor;
+    border-radius: 8px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #5D4F85;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #4f8562;
+}
+
+figcaption {
+    position: absolute;
+}
