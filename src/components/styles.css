@@ -101,3 +101,18 @@ figcaption {
   display: flex;
 }
 
+.titlePages {
+  background-color: #CDDDD4;
+  width: 1300px;
+  margin-left: 70px;
+  padding: 20px;
+  font-family: 'Ledger', serif;
+  font-size: 40px;
+  border-radius: 8px;
+  margin-top: 50px;
+}
+
+.aboutInfo{
+  
+}
+
