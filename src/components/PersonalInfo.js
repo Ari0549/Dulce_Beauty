@@ -34,7 +34,7 @@ export const PersonalInfo = [
                 
                 label: 'Expert',
                 type: 'select',
-                options: ['John Doe', 'Jane Doe', 'Sofia Hayes', 'Jeffrey Ramirez'],
+                options: ['John Doe', 'Jane Doe', 'Sofia Hayes'],
                 value: 'expert',
             },
             {

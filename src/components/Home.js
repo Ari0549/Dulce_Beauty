@@ -26,17 +26,13 @@ export default class Home extends Component {
                             <div className='text2'>
                                 Beauty Is Our Duty
                             </div>
-                            <Nav.Link as={Link} to={"/book"}>
-                                <Button bsStyle="primary" style={{
-                                    marginTop: '10px',
-                                    width: '140px',
-                                    padding: '10px',
-                                    fontFamily: 'Lato, sans-serif',
-                                    fontSize: '20px',
-                                    backgroundColor: '',
-                                }}>Book now</Button>
-
-                            </Nav.Link>
+                            <Link 
+                                className="btn btn-lg"
+                                role="button"
+                                to="/services"
+                                > 
+                                Book now
+                            </Link>
                         </figcaption>
                     </figure>
                 </Container>

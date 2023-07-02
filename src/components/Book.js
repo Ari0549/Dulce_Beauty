@@ -36,7 +36,7 @@ function Book(){
                 style={{marginTop: '50px',}}>
                     <MultiStepForm step={index} list = {PersonalInfo} onPageUpdate={onPagesAnswerUpdate} pagesAnswers={pagesAnswers}/>
                     <Button onClick={prevButton} disabled = {index === 1} style={{marginTop: '40px',}}>Previous</Button>
-                    <Button onClick={nextButton} style={{marginTop: '40px',}}>{index === totalPagesCount? 'Submit' : 'Next'}</Button>
+                    <Button onClick={nextButton} style={{marginTop: '40px',}}>{index === totalPagesCount? '' : 'Next'}</Button>
                 </Row>
             </Container>
         </div>
