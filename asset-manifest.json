@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Dulce_Beauty/static/css/main.096b4607.css",
+    "main.js": "/Dulce_Beauty/static/js/main.d9114062.js",
+    "static/js/787.f055211e.chunk.js": "/Dulce_Beauty/static/js/787.f055211e.chunk.js",
+    "static/media/imgAbout1.png": "/Dulce_Beauty/static/media/imgAbout1.695d346fe7eec13b8a03.png",
+    "static/media/homeimg.png": "/Dulce_Beauty/static/media/homeimg.b257a16b01360f21bc70.png",
+    "static/media/imgExpert1.png": "/Dulce_Beauty/static/media/imgExpert1.b1db48608cede67650d4.png",
+    "static/media/logo.png": "/Dulce_Beauty/static/media/logo.adf1cd5b5436b4d9e9e8.png",
+    "index.html": "/Dulce_Beauty/index.html",
+    "main.096b4607.css.map": "/Dulce_Beauty/static/css/main.096b4607.css.map",
+    "main.d9114062.js.map": "/Dulce_Beauty/static/js/main.d9114062.js.map",
+    "787.f055211e.chunk.js.map": "/Dulce_Beauty/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096b4607.css",
+    "static/js/main.d9114062.js"
+  ]
+}
